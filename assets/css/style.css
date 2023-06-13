@@ -26,7 +26,9 @@ img {
 main {
     margin: 0 20%;
 }
-
+nav {
+    width: 100%;
+}
 nav {
     background-color: beige;
     padding: 10px;
@@ -57,7 +59,10 @@ nav a:hover {
     height: auto;
     background-color: white;
 }
-
+#banner {
+    width: 100%;
+    height: auto;
+}
 #banner img {
     width: 60%;
     height: auto;
